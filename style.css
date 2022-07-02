@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
+header{
+    display: grid;
+    grid-column: repear(2,14px);
+}
+img{
+    height:25rem;
+    width:25rem;
+}
+.nav-class{
+    display: inline;
+}
+li{
+    display: inline;
+    margin:20px;
+}
